@@ -1,2 +1,2 @@
 # FeedTheDog
-My virtual Pet
+feed the dog
